@@ -77,9 +77,9 @@
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/your-username  
-- LinkedIn: (add later)  
-- Email: (optional)
+- GitHub: https://github.com/ChungNgo 
+- LinkedIn: linkedin.com/in/chung-ngô-5bab1338b 
+- Email: chungngonbkqna@gmail.com
 
 ---
 
