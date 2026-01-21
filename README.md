@@ -32,7 +32,6 @@
 - Linux
 - Git & GitHub
 - Wireshark
-- Postman
 - Docker (basic)
 - AWS EC2 (basic)
 - Android Studio (basic)
