@@ -1,85 +1,44 @@
 👋 Hi there! I'm Minh Chung
 
-🎓 Information Security student  
-🌐 Interested in Network Infrastructure, SOC operations, and Blue Team fundamentals  
-🔍 Learning cybersecurity through hands-on labs, network analysis, and CTF challenges  
-🚀 Actively seeking internship opportunities in SOC / Network Security  
+🚀 I am a Web3 Developer & Smart Contract Security Engineer. Moving from a solid foundation in Information Security (SOC & Malware Analysis) into the Blockchain ecosystem, I focus on building secure Decentralized Applications (dApps) and ensuring the safety of smart contract code.
+
+💻 What I am working on:
+* 🛠️ Building secure Web3 applications using React, Node.js, and Ethers.js.
+* 🛡️ Writing, testing, and auditing smart contracts with Solidity, Foundry, and Hardhat.
+* 🔍 Developing automated security tools (utilizing Python & Slither) to detect vulnerabilities.
+* 🏆 Participating in Web3 Hackathons and competitive auditing platforms (Code4rena, Sherlock).
 
 ---
 
-## 🧰 Skills
+## 🧰 Skills & Tools
 
-### 🔹 Networking & Infrastructure Fundamentals
-- TCP/IP, OSI Model
-- HTTP / HTTPS, DNS, DHCP
-- Basic routing & switching concepts
-- Network traffic analysis
-- Understanding of enterprise network environments
+### 🌐 Web3 & Blockchain Development
+* **Languages:** Solidity, JavaScript, TypeScript
+* **Frameworks:** Foundry, Hardhat
+* **Libraries & Tools:** Ethers.js, Web3.js, OpenZeppelin, Chainlink Oracles
 
-### 🔹 SOC & Security Fundamentals
-- SOC workflow & incident handling basics
-- Log analysis concepts (network & system logs)
-- Basic threat detection & analysis
-- Malware fundamentals (static & behavioral concepts)
-- CTF challenges & security labs
+### 🛡️ Smart Contract Security & Auditing
+* **Security Tools:** Slither, Mythril
+* **Testing Methodologies:** Unit Testing, Fuzz Testing (Foundry)
+* **Auditing Focus:** DeFi protocols, Access Control, Logic flaws
 
-### 🔹 Programming & Scripting
-- Python (basic scripting for security tasks)
-- JavaScript
-- Basic C / C++
+### 💻 Full-Stack & General Technical
+* **Backend/Frontend:** Node.js, React
+* **Languages:** Python (Automated Tooling), Rust (Basics)
+* **DevOps/Tools:** Git, GitHub Actions (CI/CD Pipelines)
 
-### 🔹 Tools & Platforms
-- Linux
-- Git & GitHub
-- Wireshark
-- Docker (basic)
-- AWS EC2 (basic)
-- Android Studio (basic)
+### 🔌 Networking & Security Fundamentals (Background)
+* **Core Concepts:** TCP/IP, HTTP/HTTPS, Log analysis, Threat detection
+* **Malware Analysis:** Basic static & behavioral analysis, CTF challenges
 
 ---
 
-## 🚀 Highlight Projects
-
-### 🔹 CTF Writeups & Security Labs
-- Writeups for CTF challenges and security labs  
-- Focus on:
-  - Network analysis  
-  - Web vulnerabilities  
-  - Basic reversing & malware concepts  
-- Emphasis on methodology and SOC-relevant thinking  
+## 📈 Featured Projects
+* **Solana Guardian AI Agent:** AI-powered token safety analysis tool.
+* **Build-X Hackathon Arena:** Autonomous Security Agentic App built to protect assets on X Layer.
+* **Guardian-CI:** Automated Security Governance System to enforce security pipelines in dev workflows.
 
 ---
 
-### 🔹 Network & Application Practice Projects
-- Hands-on labs related to networking and application behavior  
-- Practiced analyzing traffic, requests, and application flows  
-- Built awareness of security issues from a defender perspective  
-
----
-
-### 🔹 Blockchain Donation DApp (Learning Project)
-- Simple decentralized donation application  
-- Focused on understanding system architecture and security considerations  
-- Gained experience in analyzing application logic and potential risks  
-
-🔗 Repository: `Donation-Dapp`
-
----
-
-## 📚 Currently Learning
-- SOC operations & monitoring concepts
-- Network security & traffic analysis
-- Incident detection & basic response workflow
-- Malware analysis fundamentals
-- Security monitoring mindset (Blue Team)
-
----
-
-## 📫 Contact Me
-- GitHub: https://github.com/ChungNgo 
-- LinkedIn: linkedin.com/in/chung-ngô-5bab1338b 
-- Email: chungngonbkqna@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+📬 **How to reach me:**
+* 💼 Connect with me on [LinkedIn](DÁN_LINK_LINKEDIN_CỦA_ÔNG_VÀO_ĐÂY)
