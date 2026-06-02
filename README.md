@@ -41,4 +41,4 @@
 ---
 
 📬 **How to reach me:**
-* 💼 Connect with me on [LinkedIn](DÁN_LINK_LINKEDIN_CỦA_ÔNG_VÀO_ĐÂY)
+* 💼 Connect with me on [LinkedIn]www.linkedin.com/in/minh-chung-5bab1338b
